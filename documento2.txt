@@ -1,1 +1,3 @@
 Añadiendo texto al segundo archivo
+Texto añadido en el documento2, por peticion del ejercicio 15
+Un poco mas de texto añadido en el documento2, por peticion del ejercicio 15
