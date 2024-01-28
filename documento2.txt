@@ -1,3 +1,7 @@
 Añadiendo texto al segundo archivo
 Texto añadido en el documento2, por peticion del ejercicio 15
 Un poco mas de texto añadido en el documento2, por peticion del ejercicio 15
+Añadiendo texto en el documento2, por cortesia del ejercicio 17
+Mas lineas añadidas en el documento2, por cortesia del ejercicio 17
+Mas lineas añadidas en el documento2, por peticion del ejercicio 18
+Una linea mas añadida en el documento2, por cortesia del ejercicio 18
